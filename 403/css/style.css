@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family:'Hand Write';
+    src: url('../font/Hand Write.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: #363636;
+}
+
+body, html{
+    width: 100%;
+    height: 100%;
+    
+ }
+
+ img{
+     width: 600px;
+ }
+ a{
+    font-family: 'Hand Write';
+    color:rgb(4, 4, 110);
+    text-decoration: none;
+    text-align: center;
+   
+ }
+ a:hover{
+    color:rgb(40, 143, 134) ;
+ }
+ a:active{
+    color:rgb(245, 34, 6) ;
+ }
+
+ .section, p{
+   font-family: 'Hand Write';
+   font-size: 50px;
+   text-align: center;
+   margin-top: 1px;
+   
+ }
+    
+.footer {
+        padding-top: 90px;
+        padding-bottom: 15px;
+        text-align: center;
+        color: #0a0606;
+    }
+
+    
